@@ -11,9 +11,12 @@ This data covers the transactions received at land Registry in the period 1st Fe
 The data has been published under the [Open Government License][3]. Crown copyright 2012.
 
 If you notice issues with this data then please use the Land Registry's [online form][4] to 
-investigate any pricing errors.
+report any pricing errors.
+
+For notes on the abbreviations uses in the columns [refer to this FAQ][5] on the Land Registry website:
 
 [1]: http://www.ldodds.com
 [2]: http://www1.landregistry.gov.uk/market-trend-data/price-paid-data/price-paid-data-files
 [3]: http://www.nationalarchives.gov.uk/doc/open-government-licence/
-[4]: http://www1.landregistry.gov.uk/property-information/property-price
+[4]: http://www.landregistry.gov.uk/professional/price-paid-error
+[5]: http://www.landregistry.gov.uk/public/information/public-data/faqs#m18
