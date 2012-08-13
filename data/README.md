@@ -1,4 +1,4 @@
-The data in this directory was generated on 28th March 2012 by [Leigh Dodds][1]. The data was 
+The data in this directory was generated on 13th August 2012 by [Leigh Dodds][1]. The data was 
 downloaded and extracted from the [Land Registry][2] website using the scripts contained in this 
 project.
 
@@ -6,7 +6,7 @@ The data is provided as a snapshot for illustrative purposes, e.g. for linking t
 blog posts, etc. It should not be taken to be authoritative. Either use the scripts to generate a current 
 version of visit [the Land Registry website][2].
 
-This data covers the transactions received at land Registry in the period 1st February 2012 to 28th February 2012. 
+This data covers the transactions received at land Registry in the period 1st February 2012 to 31st June 2012. 
 
 The data has been published under the [Open Government License][3]. Crown copyright 2012.
 
